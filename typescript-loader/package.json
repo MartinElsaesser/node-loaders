@@ -1,0 +1,16 @@
+{
+	"name": "typescript-loader",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node --loader=./loader.js main.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"type": "module",
+	"dependencies": {
+		"esbuild": "^0.25.4"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "loaders",
+	"version": "1.0.0",
+	"description": "A repo exploring node.js ESM loaders",
+	"scripts": {
+		"prettier:fix": "prettier --write .",
+		"prettier:check": "prettier --check ."
+	},
+	"type": "module",
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"prettier": "^3.5.3"
+	}
+}
