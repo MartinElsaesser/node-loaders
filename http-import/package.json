@@ -1,0 +1,13 @@
+{
+	"name": "http-import",
+	"version": "1.0.0",
+	"main": "main.js",
+	"scripts": {
+		"start": "node --loader=./loader.js main.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"type": "module"
+}
