@@ -1,3 +1,3 @@
 {
-  "a-module-to-overwrite": "./module-overwrite.js"
+	"a-module-to-overwrite": "./module-overwrite.js"
 }
